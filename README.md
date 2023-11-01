@@ -1,33 +1,40 @@
 # Instagoo aka "Bed Adhesive" or "goo"
 This is not my recipe, I've been making this for personal use, and have lots of ingredients left so figured I'd throw the instructions here, point a QR code at for instructions to mix that would be accessible to anyone.
 
+If you got a bottle from me at SMRRF [you will find the mixing instructions here](./smrrf.md). It'll send you back to the application instructions after.
+
 # DIY Bed Adhesive
 
 Simply called "Bed Adhesive", Instagoo or simply goo is a
 DIY bed adhesion solution formulated to aid print adhesion and build plate release agent for use in FDM printing.
 
-Self sourcing the ingredients is possible, however certain ingredients can be difficult to source in the small quantities required so it is often easier to buy a kit or premix.
+Self sourcing the ingredients is possible, however certain ingredients can be difficult to source in the small quantities required for most of us so it is often easier to buy a kit or premix.
 
 Goo by Frank.af kits are available in the US
 - [Goo.by.frank.af - Kit](https://goo.by.frank.af)
 - [DFH.fm - Goo.by.frank.af - Kit](https://dfh.fm)
 - [Fabreeko.com - Goo.by.frank.af - Kit](https://fabreeko.com)
 
-Premixed solutions are available from:
+As well as premixed solutions available from:
 
-UK
-- [Printy Please - Cat Vom](https://www.printyplease.uk/CV120)
+Canada
+- [Northprint3d - Bed Adhesive](https://northprint3d.ca/product/
 
 EU
 - [Annex Engineering EU - Bed Adhesive by Northprint3d](https://annex-engineering.eu/product/bed-adhesive/)
+- [Alchemy3d - Alchemic Mucus Bed Adhesive](https://alchemy3d.de/products/alchemy3d-bed-adhesive)
 
-Canada
-- [Northprint3d - Bed Adhesive](https://northprint3d.ca/product/bed-adhesive/)
+UK
+- [Printy Please - Cat Vomit](https://www.printyplease.uk/CV120)
+bed-adhesive/)
 
-US
-- [Lukeslabonline - Bed Adhesive by Northprint3d](https://lukeslabonline.com/products/bed-adhesive)
+USA
 - [Annex Engineering Store - Bed Adhesive by Northprint3d](https://store.annex.engineering/collections/annex-engineering/products/bed-adhesive-by-northprint-ca)
+- [Lukes Lab Online - Bed Adhesive by Northprint3d](https://lukeslabonline.com/products/bed-adhesive)
+- [West3D - Makers' Mistress Nano-polymer Bed Adhesive](https://west3d.com/products/makers-mistress-bed-adhesive)
 
+[Vendors Last Checked - 2023-11-01]
+(If you know someone who sells a version of the DIY goo raise an issue with a link and I'll add them to the vendor list)
 
 ## Example Ingredients for 400ml of Concentrate (adjust as needed)
 
@@ -93,15 +100,5 @@ This adhesive will worth with most plastics including CFPEEK/PEEK/PEK/PEI/PVDF/P
 
 The concentration of the solution on the build plate may need to be varied for some polymers or surfaces as for instance the warping forces of materials like PEEK are far greater than those of ABS, and similarly Steel grips differently to PEI or PEX/Build-tak
 
-
-## I got a small 50ml sample at SMRRF 2023
-
-If you got a "ground sample" these are ready to go just clean your bed apply and get printing.
-
-If you got a "air sample" these are pre-measured K30 or K90 samples and just need the IPA/Water adding
-    - Option #1: Add 50ml of either 50% or 70% IPA to the container, screw on the cap and shake until mixed
-    - Option #2: Add 25ml of 99% IPA and 25ml of Distilled Water to the container, screw on the cap and shake until mixed
- 
-Clean your bed apply and get printing.
 
 
