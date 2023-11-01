@@ -31,6 +31,7 @@ bed-adhesive/)
 USA
 - [Annex Engineering Store - Bed Adhesive by Northprint3d](https://store.annex.engineering/collections/annex-engineering/products/bed-adhesive-by-northprint-ca)
 - [Lukes Lab Online - Bed Adhesive by Northprint3d](https://lukeslabonline.com/products/bed-adhesive)
+- [Provok3d - GripTec+™ Bed Adhesive ](https://provok3d.com/product/griptec-bed-adhesive)
 - [West3D - Makers' Mistress Nano-polymer Bed Adhesive](https://west3d.com/products/makers-mistress-bed-adhesive)
 
 [Vendors Last Checked - 2023-11-01]
